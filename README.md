@@ -4,7 +4,9 @@ Pytorch Implementation of Self-Attention Conditional GAN to generate dog images.
 This implementation is initially aimed to run on Dog images from the Kaggle competition:  
 https://www.kaggle.com/c/generative-dog-images/  
 
-Many parts of the code are not mine but assembled from different sources online and competition kernels including:  
+The dog dataset can be downleaded from the link above, the two files all-dogs, annotations should be placed in the main directory.  
+
+Many parts of the code are not mine but assembled from different sources online and kernels including:  
 1- https://www.kaggle.com/tikutiku/gan-dogs-starter-biggan  
 2- https://www.kaggle.com/yukia18/sub-rals-biggan-with-auxiliary-classifier  
 3- https://github.com/christiancosgrove/pytorch-spectral-normalization-gan  
@@ -17,3 +19,5 @@ The implementation uses:
 4- Self-Attention GAN: https://arxiv.org/pdf/1805.08318.pdf  
 5- GANs Trained by a Two Time-Scale Update Rule : https://arxiv.org/abs/1706.08500  
 6- Some ideas from BigGAN: https://arxiv.org/abs/1809.11096  
+
+
