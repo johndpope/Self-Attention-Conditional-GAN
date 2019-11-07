@@ -11,9 +11,9 @@ Many parts of the code are not mine but assembled from different sources online 
 4- https://github.com/pfnet-research/sngan_projection
 
 The implementation uses:
-1- Spectral normalization: https://arxiv.org/abs/1802.05957
-2- Conditional Batch normalization (in the generator): https://arxiv.org/pdf/1707.00683.pdf
-3- cgan with projection discriminator: https://arxiv.org/abs/1802.05637
-4- Self-Attention GAN: https://arxiv.org/pdf/1805.08318.pdf
-5- GANs Trained by a Two Time-Scale Update Rule : https://arxiv.org/abs/1706.08500
+1- Spectral normalization: https://arxiv.org/abs/1802.05957 \\
+2- Conditional Batch normalization (in the generator): https://arxiv.org/pdf/1707.00683.pdf \\
+3- cgan with projection discriminator: https://arxiv.org/abs/1802.05637 \\
+4- Self-Attention GAN: https://arxiv.org/pdf/1805.08318.pdf \\
+5- GANs Trained by a Two Time-Scale Update Rule : https://arxiv.org/abs/1706.08500 \\
 6- Some ideas from BigGAN: https://arxiv.org/abs/1809.11096
