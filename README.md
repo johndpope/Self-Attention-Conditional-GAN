@@ -20,5 +20,8 @@ The implementation uses:
 5- GANs Trained by a Two Time-Scale Update Rule : https://arxiv.org/abs/1706.08500  
 6- Some ideas from BigGAN: https://arxiv.org/abs/1809.11096  
 
-
+Examples of generated images: ( each row represent condition on a type of dogs ) 
 ![alt test](cond_plot.png)
+
+Generated images of different types:
+![alt test](plot.png)
