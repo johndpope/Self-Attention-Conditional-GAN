@@ -21,3 +21,4 @@ The implementation uses:
 6- Some ideas from BigGAN: https://arxiv.org/abs/1809.11096  
 
 
+![alt test](cond_plot.png)
